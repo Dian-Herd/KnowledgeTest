@@ -1,0 +1,116 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Kerri",
+      "address": "12 Farwell Circle",
+      "gender": "Polygender",
+      "birth": "2018-09-08",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Abey",
+      "address": "82 Sherman Crossing",
+      "gender": "Male",
+      "birth": "2000-10-17",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Malvin",
+      "address": "94418 Lien Place",
+      "gender": "Agender",
+      "birth": "2011-04-01",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Emmi",
+      "address": "4 Fordem Point",
+      "gender": "Female",
+      "birth": "2002-10-23",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Leese",
+      "address": "91 Little Fleur Center",
+      "gender": "Female",
+      "birth": "2012-06-02",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "Henryetta",
+      "address": "71 Hanson Trail",
+      "gender": "Female",
+      "birth": "1995-11-21",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "Tom",
+      "address": "63 Almo Center",
+      "gender": "Male",
+      "birth": "2017-01-01",
+      "status": "inactive"
+    },
+    {
+      "id": 8,
+      "name": "Meredeth",
+      "address": "50876 Buell Court",
+      "gender": "Male",
+      "birth": "1998-08-06",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "Matthus",
+      "address": "530 Wayridge Pass",
+      "gender": "Male",
+      "birth": "1998-08-01",
+      "status": "inactive"
+    },
+    {
+      "id": 10,
+      "name": "Ceil",
+      "address": "78507 Onsgard Avenue",
+      "gender": "Female",
+      "birth": "2011-06-25",
+      "status": "inactive"
+    },
+    {
+      "name": "Dian",
+      "gender": "Laki-laki",
+      "birth": "1996-05-03",
+      "address": "Purwakarta",
+      "id": 11,
+      "status": "inactive"
+    },
+    {
+      "name": "Niad",
+      "gender": "Laki-laki",
+      "birth": "2022-05-09",
+      "address": "Purwakarta",
+      "status": "active",
+      "id": 12
+    },
+    {
+      "name": "Angga",
+      "gender": "Laki-laki",
+      "birth": "2007-05-18",
+      "address": "Purwakarta",
+      "status": "active",
+      "id": 13
+    },
+    {
+      "name": "ABCD",
+      "gender": "Laki-laki",
+      "birth": "2022-05-18",
+      "address": "Cianjur",
+      "status": "inactive",
+      "id": 14
+    }
+  ]
+}
